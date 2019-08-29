@@ -12,4 +12,4 @@ class WS3000Installer(ExtensionInstaller):
             name='ws3000',
             description='Collect data from WS-3000 temperature/humidity sensors',
             author="Unknown",
-            files=[('bin/user', ['bin/user/hp3000.py', 'bin/user/ws3000Extensions.py'])])
+            files=[('bin/user', ['bin/user/ws3000.py', 'bin/user/ws3000Extensions.py'])])
